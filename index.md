@@ -6,7 +6,23 @@ mathjax: true
 `jekyll.version`  {{ jekyll.version }}
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
 
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
