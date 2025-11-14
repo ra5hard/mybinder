@@ -1,4 +1,33 @@
 
+
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 
 The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
@@ -628,4 +657,5 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
 
