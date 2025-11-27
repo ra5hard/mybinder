@@ -7,6 +7,9 @@ mathjax: true
 
 [/21_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/commitmentmaintenance/21_adult_EntertainmentZoning_LOS_ANGELES.pdf)
 
+
+[WILDFIRE1VID_20251126_224319_400.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE1VID_20251126_224319_400.mp4)
+
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
