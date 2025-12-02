@@ -5,6 +5,12 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/e10a06b5-60b2-4d1b-b8dd-5cdadcef13b2" />
+
 [wildfire @emit-sds](https://archive.org/download/commitmentmaintenance/ezgif-743af2e85bf09573.mp4) [wildfire @datadesk](https://archive.org/download/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4)
 
 [https://5WILDFIRE2VID_20251126_225215_114.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2VID_20251126_225215_114.mp4)
@@ -17,8 +23,6 @@ mathjax: true
 [WILDFIRE1VID_20251126_224319_400.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE1VID_20251126_224319_400.mp4)
 
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
-
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 <div class="tupperware">
 	
