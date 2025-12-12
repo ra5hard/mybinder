@@ -10,6 +10,10 @@ mathjax: true
 
 
 ### Los Angeles County
+@blackgirlscode @nasa-jpl @emit-sds new digs to crash
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ccab75b-666a-4459-a216-f50b58e3cc52" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/144fba54-617b-44e8-a9c0-777d2a35a80a" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4bd6a022-2dc7-4f30-a4bb-34aff5d75d06" />
