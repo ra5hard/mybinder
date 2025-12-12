@@ -17,18 +17,20 @@ mathjax: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b74173b7-6c8a-413c-8fb5-323db005995d" />
 
-#latricefitzpatrick I'm on autopilot forgive me... Howard University ... Mayor Karen Bass California Secretary of State we are doing all sorts of scans and we want your participation... Funding too if need be. But just to do it as well like getting the push mower at Sam's Los Angeles County Board of Supervisors Supervisor Janice Hahn #dustScans #mineralcontent Councilwoman Traci Park #firedamagerestoration Los Angeles Fire Department CAL FIRE Los Angeles County Fire Department https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565 
+#latricefitzpatrick I'm on autopilot forgive me... Howard University ... Mayor Karen Bass California Secretary of State we are doing all sorts of scans and we want your participation... Funding too if need be. But just to do it as well like getting the push mower at Sam's Los Angeles County Board of Supervisors Supervisor Janice Hahn #dustScans #mineralcontent Councilwoman Traci Park #firedamagerestoration Los Angeles Fire Department CAL FIRE Los Angeles County Fire Department [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565) https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565 
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ry8iGzQNUBqGuWLQooEq8u8a6pEV8K2Cx5b7Rs2rZq2GBbZgmvjYpLC6kJJmdhbfl%26id%3D100084464911565&show_text=true&width=500" width="500" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-Councilwoman Traci Park we are doing flights in the area soon if you want some new picturees of the firedamage. FEMA Federal Emergency Management Agency im being attacked for this post NASA Jet Propulsion Laboratory Normani its someone need you to get your papers in... im just a peer at that level dude Rachel Campos-Duffy Secretary Sean Duffy Ms_Park need more #FireData for #WildfireRecovery #ALTADENA please order a flight https://avirisng.jpl.nasa.gov/flight_requests.html Co...
+
+Councilwoman Traci Park we are doing flights in the area soon if you want some new picturees of the firedamage. FEMA Federal Emergency Management Agency im being attacked for this post NASA Jet Propulsion Laboratory Normani its someone need you to get your papers in... im just a peer at that level dude Rachel Campos-Duffy Secretary Sean Duffy Ms_Park need more #FireData for #WildfireRecovery #ALTADENA [please order a flight](https://avirisng.jpl.nasa.gov/flight_requests.html) https://avirisng.jpl.nasa.gov/flight_requests.html Co...
 See more
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 Claudia Sheinbaum Pardo #mexico #COP30 Governor Gavin Newsom Los Angeles County Board of Supervisors i did an aquatic analysis on that region yesterday evening from Long Beach Public Library Long Beach Fire Department Long Beach Police Department (CA) -#rashard NASA Earthdata
-#part1 #CouncilwomanTraciPark Councilwoman Traci Parkhttps://www.facebook.com/permalink.php?story_fbid=pfbid0arjUUBnpmbhH8dMYvAMJFfeZVxbUNo8tcgB8eYHHABbn27nrUmQmMvY8mtuMKYmNl&id=100084464911565 <~ Keisha...
+#part1 #CouncilwomanTraciPark Councilwoman Traci Park [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid0arjUUBnpmbhH8dMYvAMJFfeZVxbUNo8tcgB8eYHHABbn27nrUmQmMvY8mtuMKYmNl&id=100084464911565) <~ Keisha...
 See more
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CFtBCLop7s8WvZwNjFsoyGKgF7eazrxTjN7X8FyP9QWCMu3pCbYXi3VRWEbUr5Wgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -76,7 +78,8 @@ the coast looks cleaner @stateofcalifornia @cityoflosangeles
 
 <img alt="image" src="https://github.com/user-attachments/assets/c31a2f2c-c425-4072-bbb6-216877afc438" />
 
-NASA's Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR), a reconfigurable, polarimetric L-band SAR, is specifically designed to acquire airborne repeat track SAR data for differential interferometric measurements. Differential interferometry can provide key deformation measurements, and is important for studies of earthquakes, volcanoes, and other dynamically changing phenomena.
+NASA's Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR), a reconfigurable, polarimetric L-band SAR, is specifically designed to acquire airborne repeat track SAR data for differential interferometric measurements. Differential interferometry can provide key deformation measurements, and is important for studies of earthquakes, volcanoes, and other dynamically changing phenomena./
+
 ![EatonCAnyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_006_250930_L090_CX_01/crparc_09118_25032_006_250930_L090_CX_01.gif?fbclid=IwY2xjawOlk7ZleHRuA2FlbQIxMABicmlkETBEY3dQbkJjeUdFRWNlUU9Gc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlDtNQUvD6ZJX-tmlaOdNeILHayWaw7KdF5S2ct2XIlY9fr14DYt5DS4mjOU_aem_8WvMLtGJZVfZsUfQIaJBDQ)
 
 
