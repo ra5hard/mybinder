@@ -11,6 +11,10 @@ mathjax: true
 
 ### Los Angeles County
 @blackgirlscode @nasa-jpl @emit-sds new digs to crash
+[WATCH NEW SPACE COMMAND GROUNDBREAKiNG](https://www.facebook.com/DepartmentofWar/videos/1948562389373311)
+<img alt="image" src="https://github.com/user-attachments/assets/c757052a-a944-41b8-9fcd-83e1eace2d72" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/77e3da7a-1bc8-4faa-862b-b954cc39f860" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ccab75b-666a-4459-a216-f50b58e3cc52" />
 
