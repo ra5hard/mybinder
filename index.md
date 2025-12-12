@@ -8,17 +8,55 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/9518fed0-fd7c-46a2-b379-e97ebfb0023f" />
+
 
 ### Los Angeles County
+
+@teslamotors _realStories_ check out [this page](https://rashardgds.github.io/compiling/tesla) for [HollywoodProtestVideos](https://holetoanotheruniverse40.github.io/2025/09/07/tesla.html) like this one [CLicKHere](https://ia601001.us.archive.org/35/items/launchprep_twitter_work_retweets/VID_20250726_184935.mp4) @nasa-jpl @whitehouse [Archive ](https://archive.org/details/launchprep_twitter_work_retweets)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b74173b7-6c8a-413c-8fb5-323db005995d" />
+
+#latricefitzpatrick I'm on autopilot forgive me... Howard University ... Mayor Karen Bass California Secretary of State we are doing all sorts of scans and we want your participation... Funding too if need be. But just to do it as well like getting the push mower at Sam's Los Angeles County Board of Supervisors Supervisor Janice Hahn #dustScans #mineralcontent Councilwoman Traci Park #firedamagerestoration Los Angeles Fire Department CAL FIRE Los Angeles County Fire Department https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ry8iGzQNUBqGuWLQooEq8u8a6pEV8K2Cx5b7Rs2rZq2GBbZgmvjYpLC6kJJmdhbfl%26id%3D100084464911565&show_text=true&width=500" width="500" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Councilwoman Traci Park we are doing flights in the area soon if you want some new picturees of the firedamage. FEMA Federal Emergency Management Agency im being attacked for this post NASA Jet Propulsion Laboratory Normani its someone need you to get your papers in... im just a peer at that level dude Rachel Campos-Duffy Secretary Sean Duffy Ms_Park need more #FireData for #WildfireRecovery #ALTADENA please order a flight https://avirisng.jpl.nasa.gov/flight_requests.html Co...
+See more
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+Claudia Sheinbaum Pardo #mexico #COP30 Governor Gavin Newsom Los Angeles County Board of Supervisors i did an aquatic analysis on that region yesterday evening from Long Beach Public Library Long Beach Fire Department Long Beach Police Department (CA) -#rashard NASA Earthdata
+#part1 #CouncilwomanTraciPark Councilwoman Traci Parkhttps://www.facebook.com/permalink.php?story_fbid=pfbid0arjUUBnpmbhH8dMYvAMJFfeZVxbUNo8tcgB8eYHHABbn27nrUmQmMvY8mtuMKYmNl&id=100084464911565 <~ Keisha...
+See more
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CFtBCLop7s8WvZwNjFsoyGKgF7eazrxTjN7X8FyP9QWCMu3pCbYXi3VRWEbUr5Wgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+#TheSaltonSea the blue is the Secchi Depth and thats how transparent the water is, the green vein indicates a moldable mass possibly biomass... #TheGreen is the...
+See more
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid01N6y98Zkw45DXCx1uyqKBp5zEM9rBjNBwT5g2BjGKbGDH4ENMkJ9sEm9DN3Eyp72l%26id%3D100084464911565&show_text=true&width=500" width="500" height="743" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+https://thakarashard.github.io/rashardmro/…/09/07/tesla.html
+
+#LatriceFitzpatrick Howard University
+
+I was carless when we started. So, thanks. #TeslaBae was for...
+See more @teslamotors _realStories_ check out this page for [HollywoodProtestVideos](https://holetoanotheruniverse40.github.io/2025/09/07/tesla.html) @nasa-jpl @whitehouse 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028Nukcr45gJTwyQ1LC7yDS145jEoYfwzCLYN2kVoEoieEGM4MkFcUD8LX2HeJ1CJ2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="783" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 @blackgirlscode @nasa-jpl @emit-sds new digs to crash
 [WATCH NEW SPACE COMMAND GROUNDBREAKiNG](https://www.facebook.com/DepartmentofWar/videos/1948562389373311)
 <img alt="image" src="https://github.com/user-attachments/assets/c757052a-a944-41b8-9fcd-83e1eace2d72" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/77e3da7a-1bc8-4faa-862b-b954cc39f860" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ccab75b-666a-4459-a216-f50b58e3cc52" />
+<img   alt="image" src="https://github.com/user-attachments/assets/4ccab75b-666a-4459-a216-f50b58e3cc52" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/144fba54-617b-44e8-a9c0-777d2a35a80a" />
+<img  alt="image" src="https://github.com/user-attachments/assets/144fba54-617b-44e8-a9c0-777d2a35a80a" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4bd6a022-2dc7-4f30-a4bb-34aff5d75d06" />
 
