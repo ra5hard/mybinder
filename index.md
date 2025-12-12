@@ -11,6 +11,12 @@ mathjax: true
 
 ### Los Angeles County
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f8a010f-5aa9-4e5d-8b12-edb257f7a891" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0153ad98-476e-49c7-8126-b769e94a0c14" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69b7544b-9f3a-450d-bdfc-d6191227db1c" />
 
 <img  alt="2025-12-08-00_00_2025-12-08-23_59_Sentinel-2_L2A_False_color (1)" src="https://github.com/user-attachments/assets/bde3f74e-fb61-4537-ac4e-fef4ea04a844" />
 
