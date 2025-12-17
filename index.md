@@ -8,6 +8,16 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025jN31JjZRk3mR99ThUtAeXvA2MTkZyvg9k2VPun74EgCreCt1XeKtqUxn24K79upl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+ALPSRS265573000
+ALOS PALSAR • L-Band
+
+<img alt="image" src="https://github.com/user-attachments/assets/9155bf2e-17b3-432e-b852-261c4f485d78" />
+
+
+
 @NASA-Openscapes hi its rashard from MRO @nasa-jpl ... i have been working earthdata from @emit-sds [NASA_ViTALS](https://github.com/nasa/VITALS) and [EarthDataSearch](https://search.earthdata.nasa.gov/?ee=prod) , I got involved with this pop star that was in a studio a few doors down from my home in east atlanta... She is a playboy affiliate and her baggage destroyed my life and identity. @nasa-jpl still gives me badges and [DougNewman](https://www.linkedin.com/in/doug-newman-682037390) [ESDIS Directory](https://www.earthdata.nasa.gov/about/esdis/directory) but he at Goddard and Im in los angeles living as a running target from playboy assasins daily, im often attacked with [directed energy weapons](https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers) and forced to cough and say strange things : [sypmtoms](https://www.nationaldefensemagazine.org/articles/2018/9/6/exclusive-doctors-reveal-details-of-neuroweapon-attacks-in-havana) may include vomiting! 
 aka [HavanaSyndrome](https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons) / [wiki](https://en.wikipedia.org/wiki/Havana_syndrome) and theres other baggage that im in love with and long story short, i talk to a lot of girls and the umbrella of playboy prositution is actively disabling me! So @CityOfLosAngeles has been under thier rule since [ww2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933.jpg/960px-Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933.jpg) and [revolts](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/960px-1933-may-10-berlin-book-burning.JPG) have serious consequences upto rape of your child in front of you... and assasinating your spouse so im struggling and working my climate assignment and praying for another day of [ultraviolet](https://sdo.gsfc.nasa.gov/data/) ttyl -#Rashard @podaac @blackgirlscode i forgot trice again! Thats the responsible one... I dont know how to protect her from porno, since i wont do it she could get kidnapped and forced into it like my friend i had bubble tea with from @blackgirlscode [normani](https://youtu.be/FKXSh14svlQ) it happened once ok @StateOfCalifornia 
 <img  alt="image" src="https://github.com/user-attachments/assets/932b3720-d2dd-4e0f-8392-726279ac13e6" />
