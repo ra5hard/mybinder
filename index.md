@@ -8,8 +8,31 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@NASA-Openscapes hi its rashard from MRO @nasa-jpl ... i have been working earthdata from @emit-sds [NASA_ViTALS](https://github.com/nasa/VITALS) and [EarthDataSearch](https://search.earthdata.nasa.gov/?ee=prod) , I got involved with this pop star that was in a studio a few doors down from my home in east atlanta... She is a playboy affiliate and her baggage destroyed my life and identity. @nasa-jpl still gives me badges and [DougNewman](https://www.linkedin.com/in/doug-newman-682037390) [ESDIS Directory](https://www.earthdata.nasa.gov/about/esdis/directory) but he at Goddard and Im in los angeles living as a running target from playboy assasins daily, im often attacked with [directed energy weapons](https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers) and forced to cough and say strange things : [sypmtoms](https://www.nationaldefensemagazine.org/articles/2018/9/6/exclusive-doctors-reveal-details-of-neuroweapon-attacks-in-havana) may include vomiting! 
+aka [HavanaSyndrome](https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons) / [wiki](https://en.wikipedia.org/wiki/Havana_syndrome) and theres other baggage that im in love with and long story short, i talk to a lot of girls and the umbrella of playboy prositution is actively disabling me! So @CityOfLosAngeles has been under thier rule since [ww2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933.jpg/960px-Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933.jpg) and [revolts](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1933-may-10-berlin-book-burning.JPG/960px-1933-may-10-berlin-book-burning.JPG) have serious consequences upto rape of your child in front of you... and assasinating your spouse so im struggling and working my climate assignment and praying for another day of [ultraviolet](https://sdo.gsfc.nasa.gov/data/) ttyl -#Rashard @podaac @blackgirlscode i forgot trice again! Thats the responsible one... I dont know how to protect her from porno, since i wont do it she could get kidnapped and forced into it like my friend i had bubble tea with from @blackgirlscode [normani](https://youtu.be/FKXSh14svlQ) it happened once ok @StateOfCalifornia 
+<img  alt="image" src="https://github.com/user-attachments/assets/932b3720-d2dd-4e0f-8392-726279ac13e6" />
+
+# City Of NewOrleans 
+
+<p><a href="https://commons.wikimedia.org/wiki/File:City_Seal_of_New_Orleans_engraving.png#/media/File:City_Seal_of_New_Orleans_engraving.png"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/City_Seal_of_New_Orleans_engraving.png" alt="File:City Seal of New Orleans engraving.png" height="658" width="644"></a><br>By John Douglass &amp;/or others derivative works - City Seal of New OrleansEngraving c late 19th century via <a rel="nofollow" class="external autonumber" href="https://xula.contentdm.oclc.org/digital/collection/p16948coll16/id/318">[1]</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=115185389">Link</a></p>
+
+![2025-11-24-00_00_2025-11-24-23_59_Sentinel-2_L2A_False_color](https://github.com/user-attachments/assets/50750ebc-b8fa-4077-818f-60d708db15d3)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/9518fed0-fd7c-46a2-b379-e97ebfb0023f" />
 
+<img   alt="S1-GUNW-A-R-165-tops-20250128_20250116-000230-00091W_00029N-PP-081f-v3_0_1" src="https://github.com/user-attachments/assets/375edd66-317b-4db5-8f25-d7e53dd8668e" />
+
+![S1A_IW_GRDH_1SDV_20251206T000224_20251206T000249_062187_07C8B4_63F2](https://github.com/user-attachments/assets/5bb36eaa-beab-4adc-b0ce-4a7cf4be8fb4)
+
+![S1A_IW_GRDH_1SDV_20251206T000224_20251206T000249_062187_07C8B4_63F2](https://github.com/user-attachments/assets/fda7815b-23f4-4495-9dc2-4d5c1434cffd)
+
+![AP_27578_FBS_F3020](https://github.com/user-attachments/assets/ee9e0381-5a33-4aea-a46c-a3a74ca8d20a)
+
+
+<img  alt="2025-11-24-00_00_2025-11-24-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/688bdef8-69b2-4879-92c0-ec81023b9ba6" />
+
+
+<img width="188" height="186" alt="image" src="https://github.com/user-attachments/assets/eae1842b-e575-4edc-b9df-cb502813d21b" />
 
 ### Los Angeles County
 
