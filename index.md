@@ -8,9 +8,13 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[DesignWork](https://codepen.io/thakarashard/pen/EajrepQ) @howard-university-web-services @blackgirlscode trice, its a style that developed from [me](http://rashard.urbanup.com/12323326) working for normani during the covid [social media collapse](https://en.wikipedia.org/wiki/Societal_collapse), [KashDoll](https://mixtapemonkey.com/2510/kash-doll-the-vault) shared her pics but theres more than one kash doll, but its imani nicole... idk if i should say sorry bc she is my ibijitwin or something. im so scared @cityoflosangeles Karen Bass Holly Mitchell CD4 @stateofcalifornia . . . latrice she directed me to a fapping site... [im not looking that up at all](http://rashard.urbanup.com/12323326)! [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ) on @codepen check out thier repos @nasa-jpl 
+<img   alt="image" src="https://github.com/user-attachments/assets/b3c96fd2-a6b9-4fd6-88b2-286a684dbb17" />
 
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025jN31JjZRk3mR99ThUtAeXvA2MTkZyvg9k2VPun74EgCreCt1XeKtqUxn24K79upl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 ALPSRS265573000
 ALOS PALSAR • L-Band
 
