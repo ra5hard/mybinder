@@ -10,7 +10,7 @@ mathjax: true
 
 @cityoflosangles ms bass on [LACiTYViEW](https://lacityview.org/live) para olympics  @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi -rashard @nasa-jpl
 <img   alt="image" src="https://github.com/user-attachments/assets/5c253aae-f652-4de4-a07a-904ed49df5a6" />
-@cityoflosangles The Council Woman on [CD14](https://cd14.lacity.gov/) on [LACiTYViEW](https://lacityview.org/live) para olympics
+@cityoflosangeles The Council Woman on [CD14](https://cd14.lacity.gov/) on [LACiTYViEW](https://lacityview.org/live) para olympics
 <img alt="image" src="https://github.com/user-attachments/assets/8ccab15c-7b1e-45b1-b841-bda37b57cf31" />
 
 
