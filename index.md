@@ -8,7 +8,7 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-@cityoflosangles ms bass on [LACiTYViEW](https://lacityview.org/live) para olympics  @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi -rashard @nasa-jpl
+@cityoflosangeles ms bass on [LACiTYViEW](https://lacityview.org/live) para olympics  @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi -rashard @nasa-jpl [PalisadesOn @vsco](https://vsco.co/rashardsartu/media/6953d58756972df99e5b54b5)
 <img   alt="image" src="https://github.com/user-attachments/assets/5c253aae-f652-4de4-a07a-904ed49df5a6" />
 @cityoflosangeles The Council Woman on [CD14](https://cd14.lacity.gov/) on [LACiTYViEW](https://lacityview.org/live) para olympics
 <img alt="image" src="https://github.com/user-attachments/assets/8ccab15c-7b1e-45b1-b841-bda37b57cf31" />
