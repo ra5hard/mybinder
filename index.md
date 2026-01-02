@@ -10,6 +10,9 @@ mathjax: true
 
 @cityoflosangles ms bass on [LACiTYViEW](https://lacityview.org/live) para olympics  @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi -rashard @nasa-jpl
 <img   alt="image" src="https://github.com/user-attachments/assets/5c253aae-f652-4de4-a07a-904ed49df5a6" />
+@cityoflosangles The Council Woman on [CD14](https://cd14.lacity.gov/) on [LACiTYViEW](https://lacityview.org/live) para olympics
+<img alt="image" src="https://github.com/user-attachments/assets/8ccab15c-7b1e-45b1-b841-bda37b57cf31" />
+
 
 [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ) @howard-university-web-services @blackgirlscode trice, its a style that developed from [me](http://rashard.urbanup.com/12323326) working for normani during the covid [social media collapse](https://en.wikipedia.org/wiki/Societal_collapse), [KashDoll](https://mixtapemonkey.com/2510/kash-doll-the-vault) shared her pics but theres more than one kash doll, but its imani nicole... idk if i should say sorry bc she is my ibijitwin or something. im so scared @cityoflosangeles Karen Bass Holly Mitchell CD4 @stateofcalifornia . . . latrice she directed me to a fapping site... [im not looking that up at all](http://rashard.urbanup.com/12323326)! [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ) on @codepen check out thier repos @nasa-jpl 
 <img   alt="image" src="https://github.com/user-attachments/assets/b3c96fd2-a6b9-4fd6-88b2-286a684dbb17" />
