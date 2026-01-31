@@ -8,7 +8,26 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@blackgirlscode this one was a successful support day as well @nasa-jpl @la-county-isd @cityoflosangeles
+	
+<h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
+During undocking activities on July 14, the webcast commentator said Axiom-4 will splashdown on July 15 at 5:31 am ET off the coast of California, about 22.5 hours after undocking.  SpaceX has moved all of its splashdowns (Dragon recovery locations) for crew and cargo to off the coast of California instead of Florida. [spacepolicyonline.com](https://spacepolicyonline.com/events/axiom-4-splashdown-july-15-2025-coastal-california-531-am-et/)
+<img src="https://spacepolicyonline.com/wp-content/uploads/2025/03/dragon-recovery-locations-CA-768x366.png" />
+	
+# Monitoring California Groundwater
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg">
 
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4">MP4</a>
+  video.
+</video>
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20cb60-7d68-4af2-b2ea-921ff680bfa8" />
 @blackgirlscode normani nas on a new tape with dj primeir [LightYears](https://shop.nasirjones.com/products/nas-dj-premier-light-years-day-ones-edition-cd) latrice @howard-university-web-services if i cant say tricee(e) no more its cool @nasa-jpl i was in there man @podaac
 
 @cityoflosangeles ms bass on [LACiTYViEW](https://lacityview.org/live) para olympics  @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi -rashard @nasa-jpl [PalisadesOn @vsco](https://vsco.co/rashardsartu/media/6953d58756972df99e5b54b5)
