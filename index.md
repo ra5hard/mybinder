@@ -11,7 +11,9 @@ mathjax: true
 @blackgirlscode this one was a successful support day as well @nasa-jpl @la-county-isd @cityoflosangeles
 	
 <h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
+
 During undocking activities on July 14, the webcast commentator said Axiom-4 will splashdown on July 15 at 5:31 am ET off the coast of California, about 22.5 hours after undocking.  SpaceX has moved all of its splashdowns (Dragon recovery locations) for crew and cargo to off the coast of California instead of Florida. [spacepolicyonline.com](https://spacepolicyonline.com/events/axiom-4-splashdown-july-15-2025-coastal-california-531-am-et/)
+
 <img src="https://spacepolicyonline.com/wp-content/uploads/2025/03/dragon-recovery-locations-CA-768x366.png" />
 	
 # Monitoring California Groundwater
