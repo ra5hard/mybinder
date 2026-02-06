@@ -9,6 +9,10 @@ mathjax: true
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+![https://www.google.com/search?sca_esv=7e23b67cda9c6a45&q=2026+Winter+Olympics&oi=ddle&noiga=1&ct=460147707&hl=en&stick=H4sIAAAAAAAAAHvEaMot8PLHPWEpnUlrTl5jVOPiCs7IL3fNK8ksqRSS4GKDsvikeLi49HP1DUzNK3KrcngWsYoYGRiZKYRn5pWkFin451TmFmQmFwMAE_3vRE8AAAA&sa=X&ved=0ahUKEwiKmvGU48WSAxVZHEQIHeOFFv0QPQgE&biw=958&bih=952&dpr=1](https://www.google.com/search?sca_esv=7e23b67cda9c6a45&q=2026+Winter+Olympics&oi=ddle&noiga=1&ct=460147707&hl=en&stick=H4sIAAAAAAAAAHvEaMot8PLHPWEpnUlrTl5jVOPiCs7IL3fNK8ksqRSS4GKDsvikeLi49HP1DUzNK3KrcngWsYoYGRiZKYRn5pWkFin451TmFmQmFwMAE_3vRE8AAAA&sa=X&ved=0ahUKEwiKmvGU48WSAxVZHEQIHeOFFv0QPQgE&biw=958&bih=952&dpr=1)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f10b5c6b-3cd6-4b62-ba2b-7ed56fe55f50" />
+
 ![https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif)
 
 [@GoogleWorkspace](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) The Art of beat Making [google/doodle/the-art-of-hip-hop-beat-making - article](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) [turntablelab.com:Specials](https://www.turntablelab.com/collections/sales-specials) [beatlabusa.com/](https://beatlabusa.com/) [ThudRumble](https://www.djqbert.com/)
