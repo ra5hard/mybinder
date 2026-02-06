@@ -20,11 +20,11 @@ mathjax: true
 <video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
     
   <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
-  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
 
   Download the
 
-  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  <a href="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
   video.
   
 </video>
@@ -512,10 +512,11 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
   <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
   <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
 
-  Download the
+  Download the   video.
 
   <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
-  video.
+
+  
 </video>
 
 
@@ -786,6 +787,7 @@ This lady that look like Laurie Leshin cousin from Georgia was in here, its like
 
   <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
   video.
+  
 </video>
 
 
@@ -873,6 +875,7 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 </video>
 
 @nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
 <img  alt="image" src="https://github.com/user-attachments/assets/0f6e0b06-294e-412f-87b1-366ac36f9e3c" />
 <img  alt="image" src="https://github.com/user-attachments/assets/961ab0df-32dd-4157-ab83-396e07d2b5f6" />
@@ -956,17 +959,23 @@ https://archive.org/embed/screen-20250708-213751
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
 <div class="tupperware">
+	
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">         
+	
+<source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">  
+	
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">         
+
+<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">  	
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
+	
+<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
 </video> 
+
 </div>
 
 ![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
