@@ -8,6 +8,13 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+![https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif)
+
+[@GoogleWorkspace](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) The Art of beat Making [google/doodle/the-art-of-hip-hop-beat-making - article](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) [turntablelab.com:Specials](https://www.turntablelab.com/collections/sales-specials) [beatlabusa.com/](https://beatlabusa.com/) [ThudRumble](https://www.djqbert.com/)
+[Dj Total Eclipse The Confilts 2 A Full Mixtape](https://youtu.be/psARM22G7wk) [sandboxautomatic.com/](https://www.sandboxautomatic.com/) 
+@blackgirlscode : [Latrice](https://open.spotify.com/track/2fUzIplf9q8uab0oI6l0sJ?si=544b411d330e4039) 💯
+
 @blackgirlscode this one was a successful support day as well @nasa-jpl @la-county-isd @cityoflosangeles
 	
 <h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
@@ -772,6 +779,7 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 
 <iframe src="https://archive.org/embed/super-mario-rpg-legend-of-the-seven-stars-snes" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+```
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JDMDF6zMMbKRVcsZWfxkhWiBUvzwXdinKZfSd6SSMFJULhuXratj4bEBinfbF11gl%26id%3D100084464911565&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -783,6 +791,7 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025MSigt9ebBE8J8HGaMEetxgdPUY13KtKu2ebN5CXcidJMivb7YJjLAwDpHitNwN3l%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02p5e5HpbV9uuo3V7aoe4HzTXGjyg8u2UZ76sm9FrJH15guJceCZHK7YqpjNqffqEUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="207" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 # Akira - Pioneer Dub
 
@@ -791,6 +800,7 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 [The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) [Akira Subtitles opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-197) + [Adding captions and subtitles to HTML video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video) +  For LateR [What is a VTT file? March 1, 2022 / by Niall Curran ](https://www.simultrans.com/blog/what-is-a-vtt-file)  [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API/Web_Video_Text_Tracks_Format) [RoujinZ=TESTFile](https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4) [SubTitleFiles](https://github.com/rashardci/compiling/tree/master/assets)
 
 <object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
 ```html
 <video width='200' controls preload="metadata">
   <source src="https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4" type="video/mp4" />
