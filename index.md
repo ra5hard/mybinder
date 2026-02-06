@@ -8,6 +8,8 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/49571602-a3c9-4f4e-a932-9859ea9f93c0" />
+
 
 ![https://doodles.google/doodle/gerald-jerry-lawsons-82nd-birthday/](https://www.google.com/logos/doodles/2022/jerry-lawsons-82nd-birthday-6753651837109552-2xa.gif)
 
