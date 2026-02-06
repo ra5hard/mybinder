@@ -8,7 +8,9 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-[Song](https://youtu.be/E7CtsE52NKw?si=lmIb56Y7CNUgSMDk) @blackgirlscode _trice_ [_alt_mix_ sounds good too H.E.R. - FACTS](https://youtu.be/c_xG0crdnrE?si=FKUZVYxlA42GLzqZ)
+[Song](https://youtu.be/E7CtsE52NKw?si=lmIb56Y7CNUgSMDk) @blackgirlscode _trice_ [_alt_mix_ sounds good too H.E.R. - FACTS](https://youtu.be/c_xG0crdnrE?si=FKUZVYxlA42GLzqZ) ... @blackgirlscode i hope tems feeling good the song not on the street  like it was [https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) that might be brandy norwood @la-county-isd @cityofLosangeles [Free Mind - TEMS](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) @nasa-jpl she should download the [NASA_SAFE app ](https://www.nasa.gov/nasa-safe-app/) @ajc @MarinaMichaud hi @mailchimp all the kids in atlanta have access to some sort of android so please push this app out to the schools @gatech lost children can be safely organized to reach parents @caltech @nasa-jpl @StateOfCalifornia
+
+![https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png)
 
 @gtri @gatech hi its rashard E.S.D. whatever im still breathing and not stealing... pass THAT to sam and chris! can someone pass this file to gainsville ? @asfadmin @nasa-jpl @emit-sds S1-GUNW-A-R-048-tops-20240909_20230810-233051-00084W_00034N-PP-b030-v3_0_1 
 [ezgif com-animated-gif-makerhttps://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28)
