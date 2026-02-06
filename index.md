@@ -8,6 +8,10 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+![https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png](https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png)
+
 ![https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png](https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png)
 
 ![https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png](https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png)
