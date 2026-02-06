@@ -13,6 +13,21 @@ mathjax: true
 ![https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif](https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif)
 
 
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
 ![https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif](https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif)
 
  
@@ -109,26 +124,32 @@ aka [HavanaSyndrome](https://science.gc.ca/site/science/en/safeguarding-your-res
 `#LatriceFitzpatrick` I'm on autopilot forgive me... Howard University ... Mayor Karen Bass California Secretary of State we are doing all sorts of scans and we want your participation... Funding too if need be. But just to do it as well like getting the push mower at Sam's Los Angeles County Board of Supervisors Supervisor Janice Hahn #dustScans #mineralcontent Councilwoman Traci Park #firedamagerestoration Los Angeles Fire Department CAL FIRE Los Angeles County Fire Department 
 [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565) 
 
-
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ry8iGzQNUBqGuWLQooEq8u8a6pEV8K2Cx5b7Rs2rZq2GBbZgmvjYpLC6kJJmdhbfl%26id%3D100084464911565&show_text=true&width=500" width="500" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 Councilwoman Traci Park we are doing flights in the area soon if you want some new picturees of the firedamage. FEMA Federal Emergency Management Agency im being attacked for this post NASA Jet Propulsion Laboratory Normani its someone need you to get your papers in... im just a peer at that level dude Rachel Campos-Duffy Secretary Sean Duffy Ms_Park need more #FireData for #WildfireRecovery #ALTADENA [please order a flight](https://avirisng.jpl.nasa.gov/flight_requests.html) https://avirisng.jpl.nasa.gov/flight_requests.html Co...
 See more
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 Claudia Sheinbaum Pardo #mexico #COP30 Governor Gavin Newsom Los Angeles County Board of Supervisors i did an aquatic analysis on that region yesterday evening from Long Beach Public Library Long Beach Fire Department Long Beach Police Department (CA) -#rashard NASA Earthdata
 #part1 #CouncilwomanTraciPark Councilwoman Traci Park [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid0arjUUBnpmbhH8dMYvAMJFfeZVxbUNo8tcgB8eYHHABbn27nrUmQmMvY8mtuMKYmNl&id=100084464911565) <~ Keisha...
 See more
 
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CFtBCLop7s8WvZwNjFsoyGKgF7eazrxTjN7X8FyP9QWCMu3pCbYXi3VRWEbUr5Wgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 #TheSaltonSea the blue is the Secchi Depth and thats how transparent the water is, the green vein indicates a moldable mass possibly biomass... #TheGreen is the...
 See more
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid01N6y98Zkw45DXCx1uyqKBp5zEM9rBjNBwT5g2BjGKbGDH4ENMkJ9sEm9DN3Eyp72l%26id%3D100084464911565&show_text=true&width=500" width="500" height="743" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 https://thakarashard.github.io/rashardmro/…/09/07/tesla.html
 
@@ -137,8 +158,9 @@ https://thakarashard.github.io/rashardmro/…/09/07/tesla.html
 I was carless when we started. So, thanks. #TeslaBae was for...
 See more @teslamotors _realStories_ check out this page for [HollywoodProtestVideos](https://holetoanotheruniverse40.github.io/2025/09/07/tesla.html) @nasa-jpl @whitehouse 
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028Nukcr45gJTwyQ1LC7yDS145jEoYfwzCLYN2kVoEoieEGM4MkFcUD8LX2HeJ1CJ2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="783" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 @blackgirlscode @nasa-jpl @emit-sds new digs to crash
 [WATCH NEW SPACE COMMAND GROUNDBREAKiNG](https://www.facebook.com/DepartmentofWar/videos/1948562389373311)
@@ -213,7 +235,10 @@ inducis
 
 <img  alt="GIOVANNI-output68rWhEod" src="https://github.com/user-attachments/assets/89b2a505-f7a3-4116-ace5-25c740b65327" />
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02wcsdfeAauke4WzSfHhrq8Y3HNzpascmbQBHiaohSAKbfMmfsFJcR4qvDWDqKjXW8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
+
 <video controls  > 
 
 
@@ -508,7 +533,12 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 
 Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
 @emit-sds [on @rashardsdata /watchlist @blackgirlscode](https://rashardsdata.github.io/wfh/work/secular/2025/10/30/WatchPlayLisT.html)
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02DwGtHxD9D1QSAAczzWwkDXQsAj3F83EimKzrVACtEvTmBTDGYk9CcpQyRBv2Y7WQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+```
+
 <iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [@blackgirlscode LinK @emit-sds](https://ia600307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4) [ALT](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4)
@@ -544,8 +574,11 @@ H.E.R.](https://soundcloud.com/iamhermusic/damage?si=c63ab6b270724fc889739c88de0
 ![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0)
 
 [FortBenning @uidaholib @nasa-pds @nasa-jpl @emit-sds](https://www.benning.army.mil/)
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenningeducationcenter%2Fposts%2Fpfbid0UMc7qyEJFipkjGAMTfRPcdN4d1BFbxEBbiti7ynANJkSmzhek3BoMuZbGrYW5Rkgl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+```
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenningeducationcenter%2Fposts%2Fpfbid0UMc7qyEJFipkjGAMTfRPcdN4d1BFbxEBbiti7ynANJkSmzhek3BoMuZbGrYW5Rkgl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 
 ```
