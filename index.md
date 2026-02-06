@@ -8,7 +8,7 @@ mathjax: true
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-
+![https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg](https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg)
 
 ![https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png](https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png)
 
@@ -18,6 +18,7 @@ mathjax: true
 
 ![https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif](https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif)
 
+![https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
 
 # AnimalFarm 1954
 
