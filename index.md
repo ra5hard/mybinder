@@ -9,6 +9,70 @@ mathjax: true
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+
+Chattanooga
+[https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W)
+
+<img width="787" height="443" alt="image" src="https://github.com/user-attachments/assets/af7bdb34-feed-4584-b66b-d30e1b1ed5ac" />
+
+
+Atlanta 
+[https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W)
+
+<img width="768" height="443" alt="image" src="https://github.com/user-attachments/assets/cfb67e50-29ca-44c7-9495-e817a36a275c" />
+
+[Song](https://youtu.be/E7CtsE52NKw?si=lmIb56Y7CNUgSMDk) @blackgirlscode _trice_ [_alt_mix_ sounds good too H.E.R. - FACTS](https://youtu.be/c_xG0crdnrE?si=FKUZVYxlA42GLzqZ) ... @blackgirlscode i hope tems [feeling good](https://youtu.be/4aeETEoNfOg?list=RDNOG3eus4ZSo) the song not on the street  like it was [https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) that might be brandy norwood @la-county-isd @cityofLosangeles [Free Mind - TEMS](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) @nasa-jpl she should download the [NASA_SAFE app ](https://www.nasa.gov/nasa-safe-app/) @ajc @MarinaMichaud hi @mailchimp all the kids in atlanta have access to some sort of android so please push this app out to the schools @gatech lost children can be safely organized to reach parents @caltech @nasa-jpl @StateOfCalifornia [Trice?](https://youtu.be/NOG3eus4ZSo?list=RDNOG3eus4ZSo) @howard-university-web-services
+
+![https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png)
+
+@gtri @gatech hi its rashard E.S.D. whatever im still breathing and not stealing... pass THAT to sam and chris! can someone pass this file to gainsville ? @asfadmin @nasa-jpl @emit-sds S1-GUNW-A-R-048-tops-20240909_20230810-233051-00084W_00034N-PP-b030-v3_0_1 
+[ezgif com-animated-gif-makerhttps://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28)
+
+@asfadmin @emit-sds @webb @mailchimp [S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00034N-PP-dc49-v3_0_1 ](https://search.asf.alaska.edu/#/?zoom=7.694&center=-84.706,32.161&polygon=POLYGON((-84.6614%2033.5339,-83.8492%2033.5339,-83.8492%2034.0313,-84.6614%2034.0313,-84.6614%2033.5339))&resultsLoaded=true&granule=S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00034N-PP-dc49-v3_0_1&dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA))
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49571602-a3c9-4f4e-a932-9859ea9f93c0" />
+
+[S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00033N-PP-dc49-v3_0_1](https://search.asf.alaska.edu/#/?zoom=7.694&center=-84.706,32.161&polygon=POLYGON((-84.6614%2033.5339,-83.8492%2033.5339,-83.8492%2034.0313,-84.6614%2034.0313,-84.6614%2033.5339))&resultsLoaded=true&granule=S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00033N-PP-dc49-v3_0_1&dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA))
+<img width="771" height="443" alt="image" src="https://github.com/user-attachments/assets/98313dfe-3dfe-4519-a113-275ebc669afa" />
+
+![https://doodles.google/doodle/gerald-jerry-lawsons-82nd-birthday/](https://www.google.com/logos/doodles/2022/jerry-lawsons-82nd-birthday-6753651837109552-2xa.gif)
+
+![https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg](https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg)
+
+![https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png](https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png)
+
+![https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png](https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png)
+
+![https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png](https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png)
+
+![https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif](https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif)
+
+![https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
+
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+  
+</video>
+
+![https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif](https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif)
+
+ 
+![https://www.google.com/search?sca_esv=7e23b67cda9c6a45&q=2026+Winter+Olympics&oi=ddle&noiga=1&ct=460147707&hl=en&stick=H4sIAAAAAAAAAHvEaMot8PLHPWEpnUlrTl5jVOPiCs7IL3fNK8ksqRSS4GKDsvikeLi49HP1DUzNK3KrcngWsYoYGRiZKYRn5pWkFin451TmFmQmFwMAE_3vRE8AAAA&sa=X&ved=0ahUKEwiKmvGU48WSAxVZHEQIHeOFFv0QPQgE&biw=958&bih=952&dpr=1](https://www.google.com/logos/doodles/2026/winter-sports-2026-begin-6753651837111035-la1f1f1f.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f10b5c6b-3cd6-4b62-ba2b-7ed56fe55f50" />
+
 ![https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif)
 
 [@GoogleWorkspace](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) The Art of beat Making [google/doodle/the-art-of-hip-hop-beat-making - article](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) [turntablelab.com:Specials](https://www.turntablelab.com/collections/sales-specials) [beatlabusa.com/](https://beatlabusa.com/) [ThudRumble](https://www.djqbert.com/)
@@ -98,26 +162,32 @@ aka [HavanaSyndrome](https://science.gc.ca/site/science/en/safeguarding-your-res
 `#LatriceFitzpatrick` I'm on autopilot forgive me... Howard University ... Mayor Karen Bass California Secretary of State we are doing all sorts of scans and we want your participation... Funding too if need be. But just to do it as well like getting the push mower at Sam's Los Angeles County Board of Supervisors Supervisor Janice Hahn #dustScans #mineralcontent Councilwoman Traci Park #firedamagerestoration Los Angeles Fire Department CAL FIRE Los Angeles County Fire Department 
 [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l&id=100084464911565) 
 
-
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ry8iGzQNUBqGuWLQooEq8u8a6pEV8K2Cx5b7Rs2rZq2GBbZgmvjYpLC6kJJmdhbfl%26id%3D100084464911565&show_text=true&width=500" width="500" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 Councilwoman Traci Park we are doing flights in the area soon if you want some new picturees of the firedamage. FEMA Federal Emergency Management Agency im being attacked for this post NASA Jet Propulsion Laboratory Normani its someone need you to get your papers in... im just a peer at that level dude Rachel Campos-Duffy Secretary Sean Duffy Ms_Park need more #FireData for #WildfireRecovery #ALTADENA [please order a flight](https://avirisng.jpl.nasa.gov/flight_requests.html) https://avirisng.jpl.nasa.gov/flight_requests.html Co...
 See more
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02t25DKKBiLeZjoQsBjZzB3WesbHSeYACKyyfdcDfPHggizPfbfz4NjaasquP8fTu7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 Claudia Sheinbaum Pardo #mexico #COP30 Governor Gavin Newsom Los Angeles County Board of Supervisors i did an aquatic analysis on that region yesterday evening from Long Beach Public Library Long Beach Fire Department Long Beach Police Department (CA) -#rashard NASA Earthdata
 #part1 #CouncilwomanTraciPark Councilwoman Traci Park [clickhere](https://www.facebook.com/permalink.php?story_fbid=pfbid0arjUUBnpmbhH8dMYvAMJFfeZVxbUNo8tcgB8eYHHABbn27nrUmQmMvY8mtuMKYmNl&id=100084464911565) <~ Keisha...
 See more
 
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CFtBCLop7s8WvZwNjFsoyGKgF7eazrxTjN7X8FyP9QWCMu3pCbYXi3VRWEbUr5Wgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 #TheSaltonSea the blue is the Secchi Depth and thats how transparent the water is, the green vein indicates a moldable mass possibly biomass... #TheGreen is the...
 See more
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid01N6y98Zkw45DXCx1uyqKBp5zEM9rBjNBwT5g2BjGKbGDH4ENMkJ9sEm9DN3Eyp72l%26id%3D100084464911565&show_text=true&width=500" width="500" height="743" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 https://thakarashard.github.io/rashardmro/…/09/07/tesla.html
 
@@ -126,8 +196,9 @@ https://thakarashard.github.io/rashardmro/…/09/07/tesla.html
 I was carless when we started. So, thanks. #TeslaBae was for...
 See more @teslamotors _realStories_ check out this page for [HollywoodProtestVideos](https://holetoanotheruniverse40.github.io/2025/09/07/tesla.html) @nasa-jpl @whitehouse 
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028Nukcr45gJTwyQ1LC7yDS145jEoYfwzCLYN2kVoEoieEGM4MkFcUD8LX2HeJ1CJ2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="783" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 
 @blackgirlscode @nasa-jpl @emit-sds new digs to crash
 [WATCH NEW SPACE COMMAND GROUNDBREAKiNG](https://www.facebook.com/DepartmentofWar/videos/1948562389373311)
@@ -202,7 +273,10 @@ inducis
 
 <img  alt="GIOVANNI-output68rWhEod" src="https://github.com/user-attachments/assets/89b2a505-f7a3-4116-ace5-25c740b65327" />
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02wcsdfeAauke4WzSfHhrq8Y3HNzpascmbQBHiaohSAKbfMmfsFJcR4qvDWDqKjXW8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
+
 <video controls  > 
 
 
@@ -475,10 +549,11 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
   <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
   <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
 
-  Download the
+  Download the   video.
 
   <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
-  video.
+
+  
 </video>
 
 
@@ -497,7 +572,12 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 
 Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
 @emit-sds [on @rashardsdata /watchlist @blackgirlscode](https://rashardsdata.github.io/wfh/work/secular/2025/10/30/WatchPlayLisT.html)
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02DwGtHxD9D1QSAAczzWwkDXQsAj3F83EimKzrVACtEvTmBTDGYk9CcpQyRBv2Y7WQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+```
+
 <iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [@blackgirlscode LinK @emit-sds](https://ia600307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4) [ALT](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4)
@@ -533,8 +613,11 @@ H.E.R.](https://soundcloud.com/iamhermusic/damage?si=c63ab6b270724fc889739c88de0
 ![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0)
 
 [FortBenning @uidaholib @nasa-pds @nasa-jpl @emit-sds](https://www.benning.army.mil/)
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenningeducationcenter%2Fposts%2Fpfbid0UMc7qyEJFipkjGAMTfRPcdN4d1BFbxEBbiti7ynANJkSmzhek3BoMuZbGrYW5Rkgl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+```
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenningeducationcenter%2Fposts%2Fpfbid0UMc7qyEJFipkjGAMTfRPcdN4d1BFbxEBbiti7ynANJkSmzhek3BoMuZbGrYW5Rkgl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 
 ```
@@ -741,6 +824,7 @@ This lady that look like Laurie Leshin cousin from Georgia was in here, its like
 
   <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
   video.
+  
 </video>
 
 
@@ -828,6 +912,7 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 </video>
 
 @nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
 <img  alt="image" src="https://github.com/user-attachments/assets/0f6e0b06-294e-412f-87b1-366ac36f9e3c" />
 <img  alt="image" src="https://github.com/user-attachments/assets/961ab0df-32dd-4157-ab83-396e07d2b5f6" />
@@ -911,17 +996,23 @@ https://archive.org/embed/screen-20250708-213751
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
 <div class="tupperware">
+	
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">         
+	
+<source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">  
+	
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">         
+
+<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">  	
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
+	
+<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
 </video> 
+
 </div>
 
 ![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
