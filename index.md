@@ -13,9 +13,28 @@ mathjax: true
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-`Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws` [link](https://www.egattorneys.com/peeping-tom-laws-in-california) @la-county-isd @caltech
+`Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws` [link](https://www.egattorneys.com/peeping-tom-laws-in-california) @la-county-isd @caltech @LACountyDPH @mailchimp @webb [holetoanotheruniverse40.github.io/Atlanta](https://holetoanotheruniverse40.github.io/Atlanta) @StateOfCalifornia
 
 <img  alt="image" src="https://github.com/user-attachments/assets/309f6ca1-9b17-42f8-b452-674c667bf79f" />
+
+```shell
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 02-07-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+NASA Official: Doug Newman
+```
 
 @googleworkspace i cannot create a new account `https://accounts.google.com/lifecycle/steps/signup/mophoneverification/error/3?TL=APgKAcYnmouaQpayBsrT3g7xik7kj0iAsJB2oAstCZOLXM12tvN2Tj8WdzSofgpg&continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&dsh=S-952822728%3A1770499506387121&flowEntry=SignUp&flowName=GlifWebSignIn` @protonmail
 
