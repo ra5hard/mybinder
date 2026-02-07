@@ -33,7 +33,7 @@ Affiliation: Government
 Allow Email Notifications from Applications: True
 Agreed To Meris EULA: True
 Agreed To Sentinel-3 EULA: True
-NASA Official: Doug Newman
+NASA Official: Doug Newman @doug-newman-nasa
 ```
 
 @googleworkspace i cannot create a new account `https://accounts.google.com/lifecycle/steps/signup/mophoneverification/error/3?TL=APgKAcYnmouaQpayBsrT3g7xik7kj0iAsJB2oAstCZOLXM12tvN2Tj8WdzSofgpg&continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&dsh=S-952822728%3A1770499506387121&flowEntry=SignUp&flowName=GlifWebSignIn` @protonmail
