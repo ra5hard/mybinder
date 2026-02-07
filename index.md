@@ -17,8 +17,9 @@ mathjax: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/309f6ca1-9b17-42f8-b452-674c667bf79f" />
 
+
+## Name: [_Rashard I Kelly_](https://rashardiman.github.io/)
 ```shell
-Name: Rashard I Kelly
 Username: rashardkelly
 Email Address: holetoanotheruniverse40@gmail.com
 Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
