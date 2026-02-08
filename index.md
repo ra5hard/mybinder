@@ -13,7 +13,7 @@ mathjax: true
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-`Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws` [link](https://www.egattorneys.com/peeping-tom-laws-in-california) @la-county-isd @caltech @LACountyDPH @mailchimp @webb [holetoanotheruniverse40.github.io/Atlanta](https://holetoanotheruniverse40.github.io/Atlanta) @StateOfCalifornia
+`Review of PC 647(i) & PC 647(j) California's Peeping Tom Laws` [link](https://www.egattorneys.com/peeping-tom-laws-in-california) @la-county-isd @caltech @LACountyDPH @mailchimp @webb [holetoanotheruniverse40.github.io/Atlanta](https://holetoanotheruniverse40.github.io/Atlanta) @StateOfCalifornia @nasa-pds @emit-sds @nasa-jpl @la-county-isd . . . from @[MetroRaiL Car 1127a https://pds-imaging.jpl.nasa.gov is returning _`403 Forbidden` @LACMTA wifi , metro free wifi 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/309f6ca1-9b17-42f8-b452-674c667bf79f" />
 
