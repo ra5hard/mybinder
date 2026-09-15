@@ -19,6 +19,296 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
+ 
+--- 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+[GloRilla’s BET Gospel Win Sparks Praise, Debate, and Reflection on Faith in Music](https://www.eewmagazineonline.com/the-gospel-beat/2025/6/11/glorilla-bet-gospel-win-2025) [@Nasa-JPL @isro timesofindia.indiatimes.com/sports/nba/top-stories/who-is-brandon-ingrams-girlfriend-gloria-woods-glorilla-exploring-personal-life-of-toronto-raptors-forward/articleshow/126176007.cms](https://timesofindia.indiatimes.com/sports/nba/top-stories/who-is-brandon-ingrams-girlfriend-gloria-woods-glorilla-exploring-personal-life-of-toronto-raptors-forward/articleshow/126176007.cms) @Nasa-JPL @isro  I was in some sort of physical relationship with her, I don't know what could have been said about me, but the guards at the gate insisted that I keep cleaning up my relationships to figure my back in because there's a lot of women at the lab now and they will feel much safer . . . collected perceived insulting tones @nasa-pds @cityoflosangeles @la-county-isd  that's when I said I lost my sexual partner @Blackgirlscode or it was [Chloe Bailey](https://www.instagram.com/chloebailey/?hl=en) @Sony @SonyResearch I can explain it all with Lana j Harris present with @fbicyber @DEPTofWAR
+
+
+<img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A278373164&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boosie-badazz-16" title="Boosie Badazz" target="_blank" style="color: #cccccc; text-decoration: none;">Boosie Badazz</a> · <a href="https://soundcloud.com/boosie-badazz-16/boosie-badazz-real-nigga" title="Real Nigga" target="_blank" style="color: #cccccc; text-decoration: none;">Real Nigga</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2274478748&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boosie-badazz-16" title="Boosie Badazz" target="_blank" style="color: #cccccc; text-decoration: none;">Boosie Badazz</a> · <a href="https://soundcloud.com/boosie-badazz-16/sets/hood-stories-8" title="Hood Stories" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Stories</a></div>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c216a5a9-b033-4f60-aa72-06b037789577" />
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1742331777&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boosie-badazz-16" title="Boosie Badazz" target="_blank" style="color: #cccccc; text-decoration: none;">Boosie Badazz</a> · <a href="https://soundcloud.com/boosie-badazz-16/sets/thug-talk-2" title="Thug Talk" target="_blank" style="color: #cccccc; text-decoration: none;">Thug Talk</a></div>
+
+
+![https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png](https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png) 
+
+### Keisha SLAMS Rick Jackson On His Data Center Investment Despite Local Opposition 
+[`WATCH` - https://youtu.be/IENnS80M4dQ](https://youtu.be/IENnS80M4dQ)
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/c2cdca0b-1fc0-415d-9ef4-de91eaf533e8" />
+
+>@OfficialCutChemist that girl i felt up on @hot97 she was in blackface @repkarenbass @NASAJPL @HOWARDUNiVERSiTY @chloebaileywashere talk to cut chemist about your mixtape @AlQuran4KOfficial @NASAJPLPODAAC ppl need to slow down on the datacenters, like i gotta get some down time because i know they are making mistakes!!!!!!!!!!!!!!1 @NASAJPLPODAAC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96Hbs2B5Vo8?si=xL5VsRdKaOLYTRjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/a4d3c949-15ed-4e36-9e2e-1aa3447237ba" />
+
+
+
+[@ForAtlanta digitalcommons.georgiasouthern.edu/savannah-signs/411/](https://digitalcommons.georgiasouthern.edu/savannah-signs/411/)
+
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/4097bfe5-f7ec-49de-bfc8-29a9226a99b4" />
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1421705710&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/bitties-in-the-bk-lounge-1" title="Bitties in the BK Lounge" target="_blank" style="color: #cccccc; text-decoration: none;">Bitties in the BK Lounge</a></div>
+
+@blackgirlscode [bk.com/](https://www.bk.com/)
+<img   alt="image" src="https://github.com/user-attachments/assets/eb48c280-34dc-4f2a-8aca-44614ce299c6" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3af0c9ee-accd-48e9-be50-1eaf4e5d8aaa" />
+
+@ForAtlanta @BlackGirLsCode 
+[`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
+[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) @DEPTOFWAR @CiA
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/) ://thakarashard.github.io/RESUME/ @ATLChannel26  ... @NASaJPL ill put youguys on top and put to present @LAnaJHARRiS @HOWARDUNiVERSiTY idk wht to say for #Virtiserv @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA
+
+<img alt="image" src="https://github.com/user-attachments/assets/05391d36-27ed-4336-9302-5ed1489718c1" />
+
+# 🕋 Makkah Live
+@nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
+[https://youtu.be/BNFfCFIzftU](https://youtu.be/BNFfCFIzftU) its a newer link than the one above @CityOFLoSangeles @DEPTOFWAR @CiA
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/)
+<img alt="image" src="https://github.com/user-attachments/assets/3da42543-9cb8-460b-b4eb-3d7b5de7d5f3" />
+
+# 4 LAna J Harris
+
+@ForAtlanta @BlackGirLsCode 
+[`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
+[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
+
+
+
+
+<img   alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/8e15edc1-2a6d-4d22-8c3e-2d1b88740254" />
+
+[A Tech Startup Secretly Tested Weather Modification Over Alaska - `WATCH` <~ @nasa-jpl @asfadmin _`ThanksLana!!!`_@BLACKGiRLSCODE](https://youtu.be/MNvaW8Boj0I?t=8)
+<img alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/a044f3f0-2bff-4b72-a91f-26a89c768bb6" />
+
+[youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
+[@nasa-pds github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3383a669-1083-4deb-b230-c38254c1f1eb" />
+
+
+@NewsHour @NBCNEWS @Cbs-news-data
+@howard-university-web-services @disney @nasa-jpl @eodis-nasa @doug-newmna-nasa I was reading [@latimes job section](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) on @LACMTA and I wanted everyone to know  I'm not abandoning anything I was just exploring options locally that don't conflict with my preexisting commitments @SonyResearch @Sony has a Linux admin position and the job description talked about making widgets, my email did not get to me @virtiserv @outlook @Blackgirlscode but I sent it to the long beach mayor and the [@CityOfLosAngeles mayor helpdesk](https://mayor.lacity.gov/contact) if any of you guys need access . . . @Newshour please handle any communication with @Netflix they are such a turn off to me that's all @USGS @NASA @WHitEHOUSE @DEPToFWAR [@STATEOFCALiFORNiA @CiA @USC jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/986c170b-0376-49bb-bd87-405b8018c867" />
+
+[`WATCH` - Legionnaires' Outbreak, Charlie Kirk Statue Drama & H-1B Visa Crackdown](https://youtu.be/5Bkbfq9FlMI)
+<img  alt="image" src="https://github.com/user-attachments/assets/a7643d73-87fa-4808-aa47-d48dca8403dd" />
+
+## 9/11 Widow Goes Rogue In Front Of World Leaders
+[`WATCH` - https://youtu.be/6d0L5VlS68g](https://youtu.be/6d0L5VlS68g) @ForAtlanta check on Lana make sure she did not get kidnapped agian  @deptofwar @fbicyber 
+<img alt="image" src="https://github.com/user-attachments/assets/459e32d1-a13a-4264-a4df-4ef8a90f7ed7" />
+
+[Mr. Lif - Enters The Colossus](https://youtu.be/_t52handuvU) you snuck in again, idk y i have been running from this album for years! //
+
+@nasa-pds @asulibraries there's a black streak in this image @nasa-jpl `https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png` @nasa I was told to make comments I'm just overwhelmed I'm sorry landing team, ppl competitive for time and squeeze me out of a lot of places @ForaTlanta hi 
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png) 
+
+@howard-university-web-services @blackgirlscode hi Lana I was strapped for time today  . . . I will catch up on your show @deptofwar she might be visiting @CityOfLosAngeles idk how immigration works but HBCU don't handle business like wee do @nasa-jpl @nasa-pds tell Lana what's up, cameras are easy to point [youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
+<img   alt="image" src="https://github.com/user-attachments/assets/86c483f4-4010-4170-a6e0-ff68182f3a74" />
+
+Grandmaster Flash and Kurtis Blow - Live in Queens, NY 1981
+[Listen - https://youtu.be/gvLoUwC4rz0?list=PLoHkKVpb5UXFLS6nWMXFYDdjFjEseayjf](https://youtu.be/gvLoUwC4rz0?list=PLoHkKVpb5UXFLS6nWMXFYDdjFjEseayjf)
+<img  alt="image" src="https://github.com/user-attachments/assets/de42fec9-c231-47f8-b5d9-80cd87d1b249" />
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090800_090899/ESP_090820_2085_ESP_090754_2085/ESP_090820_2085_ESP_090754_2085_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090800_090899/ESP_090820_2085_ESP_090754_2085/ESP_090820_2085_ESP_090754_2085_RED.browse.png) 
+
+![@blackgirlscode https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093100_093199/ESP_093129_1660_ESP_093063_1660/ESP_093129_1660_ESP_093063_1660_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093100_093199/ESP_093129_1660_ESP_093063_1660/ESP_093129_1660_ESP_093063_1660_RED.browse.png) 
+
+@asu @asulibraries
+@nasa-jpl 
+
+![@nasa-pds @CityOfLosAngeles how would you like to keep up with mars updates pics etc @STATEOFCALiFORNiA @WHiTEHOUSE @dhs-gov](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_002100_002199/PSP_002176_2025_PSP_002888_2025/PSP_002176_2025_PSP_002888_2025_RED.browse.png) 
+
+[https://www.huntington.org/join/donors/blueprint-los-angeles](https://www.huntington.org/join/donors/blueprint-los-angeles)
+Civic Center plan adopted by the City and County of Los Angeles. [@CiTYOFLOSANGELES @NASA-GiSS https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958](https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958) @nasa-jpl @eodis-nasa @blackgirlscode 
+![https://www.researchgate.net/profile/Meredith-Drake-Reitan/publication/275452958/figure/fig1/AS:384196934684675@1468611095888/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by.png](https://www.researchgate.net/profile/Meredith-Drake-Reitan/publication/275452958/figure/fig1/AS:384196934684675@1468611095888/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by.png)
+
+
+## Los Angeles City Hall
+[@la-county-isd @StateOfCalifornia @nasa Laconservancy.org/learn/historic-places/los-angeles-city-hall/](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/)
+![https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg](https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg) 
+
+[@nasa-jpl](https://www.pinterest.com/pin/pasadena-city-hall--235664992991871129/)
+[@CityOfLosAngeles Stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031](https://www.stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031)
+![https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D](https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D) 
+
+## Ticket to the Twenties Themes: Los Angeles City Hall Planning, 1923
+[`READ` - homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/](https://homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/)
+
+![@cityoflosangeles https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-idea-1923.jpg?resize=730%2C472&ssl=1 @nasa-pds](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-idea-1923.jpg?resize=730%2C472&ssl=1) 
+
+<img   alt="650790757-23ab9649-ccf3-4567-b763-f84b64072c4a" src="https://github.com/user-attachments/assets/baa2e03d-3a45-4502-83f1-acbd2518f8cb" />
+
+![https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-3.jpg?resize=730%2C548&ssl=1](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-3.jpg?resize=730%2C548&ssl=1)
+
+![https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-4.jpg?resize=730%2C548&ssl=1](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-4.jpg?resize=730%2C548&ssl=1)
+![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531](https://cdn.myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531)
+![upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png @cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png)
+![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://maps-los-angeles.com/img/1200/los-angeles-city-council-district-map.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea32c625-1714-472d-8d3f-14518614480f" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/657ce544-15f0-471d-ac57-04e9b23337b1" />
+
+@nasa-jpl @foratlanta @deptofwar @whitehouse @blackgirlscode
+
+```
+@lanajharris@gmail.com hi @normani@fifthharmonyofficial.com @Normaniofficial@outlook.com idk what you guys are up to but im working on my reports i did one for the hurricane in longbeach and told people to talk to @HollyJMitchell@bos.lacounty.gov if they want hurricane imigery ... I am still surfing instructions from @customer_services_dfcs@dhs.ga.gov and really dont know whats up with coral or erika! However i have been keeping my agreement with @info@keishaforgovernor.com / @keishaforgovernor@gmail.com to post everyday, remember she is the manager of all federal employees in georgia @georgia.governor@gov.state.ga.us i heard she was mayor again @adickens@atlantaga.gov  .... @Media.Relations@fernbankmuseum.org here are some note i have on a recent space telescope, i was hired to try to keep track of the things https://ra5hard.github.io/nancygrace @atlantacouncil@atlantaga.gov .... @chloe.baily@gmail.com @tinyharris@gmail.com whatever is going on in your househole theres a lot of data that whatever latrice is can process with spaceforce to get nasajpl discovery credit for images so they dont get molested in hollywood im gbeing tortured!
+@education@esa.int @FirstDistrict@bos.lacounty.gov this is your earthdata delivery vehicle as outlined in our instructions from @The White House @douglas.j.newman@nasa.gov  @Whs Pentagon Esd Mbx Secrev Secretarty Hegseth im being brutalized man electric torture, i dont know where the girrls are anymore but they keep communicating and i can prove it to you make sure our rep @press@hot97.com @info@hot97.com is good @info@lamission.net @info@snoopdogg.com @scott.snowden@smdp.com 
+-rashard Nasajpl
+```
+
+[@deptofwar @nasa thakarashard.github.io/ricothaka/](https://thakarashard.github.io/ricothaka/)
+<img   alt="image" src="https://github.com/user-attachments/assets/1422219a-f765-4adc-8633-3148fdcc44cd" />
+
+<img   alt="GVnkCdcWQAEfJM_" src="https://github.com/user-attachments/assets/8674dcbe-606d-43bc-b0ff-10b310ba45e7" />
+
+[ra5hard.github.io/compiling/](https://ra5hard.github.io/compiling/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5c97d06b-fe0c-4860-a678-c5d0d6e836dd" />
+
+# CAssini
+
+<img   alt=" @nasa-jpl how is coral @foratlanta @nasa-pds image" src="https://github.com/user-attachments/assets/df70e1d6-80f0-4ac5-9825-c69036014cec" />
+
+# _**W00063216.jpg**_
+_**W00063216.jpg**_ was taken on 2010-03-11 01:04 (PST) and received on Earth 2010-03-11 18:44 (PST). The camera was pointing toward Saturn-ering, and the image was taken using the CL1 and VIO filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the [NASA Planetary Data System @nasa-pds](https://pds.nasa.gov/) // [solarsystem.nasa.gov/raw_images/243453/?layout=hds](https://solarsystem.nasa.gov/raw_images/243453/?layout=hds)
+<img   alt="W00063216  @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov " src="https://github.com/user-attachments/assets/3b863e8b-e516-48f0-870d-c50e732ce11e" />
+
+
+
+<img  alt="ezgif  @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov  com-gif-maker (5)" src="https://github.com/user-attachments/assets/4914a7c8-5738-434c-8bdd-a06e16742b88" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/031f6f69-93bf-46fd-a3b8-2f5e5e7b87ab" />
+
+**File name:** [_N00211754_](https://solarsystem.nasa.gov/images/casJPGBrowseS79/N00211718.jpg).jpg
+
+**Taken**: Jun 14, 2013 5:02 PM
+
+**Received**: [Jun. 15, 2013 10:23 AM - _More Info_](https://solarsystem.nasa.gov/raw_images/319204/?layout=hds)
+
+**AnimationSourceFiles** [github.com/ThakaRashard/rashardmro/commit/bee07f46a74e38026891b6d48dc2a67a93edb09a](https://github.com/ThakaRashard/rashardmro/commit/bee07f46a74e38026891b6d48dc2a67a93edb09a)
+The camera was pointing toward SATURN, and the image was taken using the RED and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the [NASA Planetary Data System](https://pds.nasa.gov/home/about/).
+
+<img  alt="@nasa-jpl @nasa-pds send that to griffith @la-county-isd its saturn @cityoflosangeles @blackgirlscode @foratlanta" src="https://github.com/user-attachments/assets/a14d53d0-d27d-49e9-ade7-d8f831ff4551" />
+
+<img alt="ezgif com-resize (1)" src="https://github.com/user-attachments/assets/b67bf0a1-ece6-415a-acec-f6d5497da157" />
+
+Im looking for more color images and seeking an understanding on false color and more ways to understand hoiw to communicate the point the data rendered image is revealing 
+[bundle @blackgirlscode](https://solarsystem.nasa.gov/downloads/download_6283_1754073309.zip) [Ms Bass here are som images from Saturns Rings @cityoflosangeles - rashard @nasa-jpl click to download](https://solarsystem.nasa.gov/downloads/download_6284_1754073523.zip)
+
+
+[W00006765](https://solarsystem.nasa.gov/raw_images/69301/?layout=hds)
+
+<div class="tupperware">
+
+ <img src="https://solarsystem.nasa.gov/images/casJPGFullS10/W00006765.jpg" alt="W00006765.jpg was taken on 2005-05-02 08:32 (PDT) and received on Earth 2005-05-04 10:19 (PDT)" />
+
+<img src="https://solarsystem.nasa.gov/images/casJPGFullS10/W00006552.jpg" alt="W00006552.jpg was taken on 2005-05-04 03:12 (PDT) and received on Earth 2005-05-04 05:55 (PDT)" />
+ 
+  <img src="https://solarsystem.nasa.gov/images/casJPGFullS30/N00083211.jpg" alt="N00083211.jpg was taken on 2007-05-14 11:03" />
+  
+  <img src="https://solarsystem.nasa.gov/images/casJPGFullS30/W00028313.jpg" alt="N00083211.jpg was taken on 2007-05-14 11:03" />
+
+</div>
+
+
+# @teslamotors Diner Revolt & Space Weather 
+
+[See More on rashardgds.github.io/compiling/Tesla-Diner-Revolt/compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt) ////////// [openscape](https://nasa-openscapes.github.io/) // [LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) 
+
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
+
+@blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @nasa-jpl and the voice said make a gif @emergingCoders @lasp @LowellObservatory taken from pds dir [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/ @nasa-jpl @CityOFLosAngeles @Longbeachinnovationteam](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/)
+<img  alt="ezgif com-resize @NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin @blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @lasp @LowellObservatory  @nasa-jpl and the voice said make a gif @emergingCoders " src="https://github.com/user-attachments/assets/23ab9649-ccf3-4567-b763-f84b64072c4a" />
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG)
+
+[https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg](https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg) 
+
+[@UCLA planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG) //// The NASA-Sloan Atlas is a catalog of images and parameters of local galaxies, from surveys in the ultraviolet, optical and near-infrared. Our focus in the near term is on the Sloan Digital Sky Survey and the Galaxy Evolution Explorer. - [@nasa-pds nsatlas.org/](https://nsatlas.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/e91dc3f8-ad5e-4dc5-99d1-daca3977fa8d" />
+
+
+[ planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00015_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00015_V01.PNG)
+<img  alt="image" src="https://github.com/user-attachments/assets/5439f105-a624-4271-95d8-4674f9502db0" />
+
+[planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69C00051_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69C00051_V01.PNG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1f0d63d1-760d-40ef-8c62-b36f1066cceb" />
+
+ //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=1316)
+ 
+ <img   alt="image" src="https://github.com/user-attachments/assets/8826227e-7c44-48dc-8699-515a334a6536" />
+ 
+// [ @blackgirlscode](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00024_V01.PNG)  //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f585af80-ca6a-465a-b1ca-5bd9cf4d22c2" />
+
+[@NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00022_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00022_V01.PNG)
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/9a05c721-92fb-49ff-a49a-318c0725d4b9" />
+
+[ @nasa @deptofwar sabotage ? @la-county-isd planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/95f4110b-f05c-4a24-9564-1762b784083c" />
+
+![@nasa-pds hi this is one of the files that mark the start of something crummier than johnson family popcorn](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/EDR/JUPITER/ORBIT_71/JNCE_2025110_71R00458_V01.PNG)
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG)
+
+---
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG @nasa-pds the bad files start around ](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG)
+<img alt="image" src="https://github.com/user-attachments/assets/6dc1ea0a-c8c2-4a78-b5a3-43da32be021c" />
+
+
+ //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816) // 
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG @nasa-pds](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dfd6fede-c31c-48d1-8a0c-de65b1e8e8dc" />
+
 <img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
 
 @nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
