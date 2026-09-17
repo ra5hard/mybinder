@@ -4,10 +4,11 @@ mathjax: true
 ---
 
 `jekyll.version`  {{ jekyll.version }}
-
-
+{{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
 
 
 ## Rashard Kelly 
@@ -29,7 +30,60 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
- [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
+ [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8) // [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too `Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour
+{{ site.time }}
+{{ site.time | date: '%Y' }}
+--- 
+
+
+
+[@LACMTA](https://locator.lacounty.gov/lac/Location/3053102/los-angeles-county-metropolitan-transportation-authority---administration) [@la-county-isd District Attorney Hochman](https://da.lacounty.gov/about/meet-the-da) to provide [`WATCH` - update in deadly Metro bus crash](https://www.youtube.com/live/HWfXeTSt5ms?si=Uwn5KoJod3ELuJWt) afternoon [Supervisor Mitchell ](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) + [mehmandarov.com/ @jekyll -content-on-time/](https://mehmandarov.com/jekyll-content-on-time/) <img  alt="image @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/b574dc16-defb-4d84-80a5-4a1ead4c5e63" />
+
+
+
+![https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg](https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg) 
+
+early run @nasa-giss @nasa-openscapes
+<img   alt="GIOVANNI-outputupsPthkP" src="https://github.com/user-attachments/assets/07497601-2123-49ac-b9f0-914779dd5048" />
+
+late run @nasa
+<img  alt="GIOVANNI-outputGiNCBoJb @nasa-jpl @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/66899222-417a-42b2-9d94-dbb1e75369ff" />
+
+<img  alt="GIOVANNI-outputRFD2Isz2" src="https://github.com/user-attachments/assets/1a60ab50-851b-455b-ac93-9c38e405d880" />
+
+<img  alt="GIOVANNI-output4sut4NRB @isro " src="https://github.com/user-attachments/assets/2341e826-460e-42e5-be78-c8cc6766f662" />
+
+<img  alt="GIOVANNI-outputQyGbIsfk  @isro " src="https://github.com/user-attachments/assets/60839720-2534-4aad-bcf8-8fa7658cd5a3" />
+
+<img alt="GIOVANNI-outputj45IbhmE" src="https://github.com/user-attachments/assets/4fca186a-9234-4de2-b85f-cb517b6a8bdb" />
+
+
+![https://yt3.googleusercontent.com/dzsvMfK09AVaYvcOg2TNG4IcW9g9vi-DmqKkcC1CaDyOIbT4SYux57G2jg7VbjJEJN_QBj63=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/dzsvMfK09AVaYvcOg2TNG4IcW9g9vi-DmqKkcC1CaDyOIbT4SYux57G2jg7VbjJEJN_QBj63=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+[@nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
+[@asu youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X send to dj radar @asulibraries](https://youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X) // [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [redbullmusicacademy.com/lectures/`dj-radar`-radar-of-the-lost-art](https://www.redbullmusicacademy.com/lectures/dj-radar-radar-of-the-lost-art) // [spinitron.com/KCSB/dj/177239/DJ-Radar](https://spinitron.com/KCSB/dj/177239/DJ-Radar) // [ig](https://www.instagram.com/djradar/) // 
+<img   alt="image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ " src="https://github.com/user-attachments/assets/d6ee22bb-f94b-400b-b0e0-c248131df6a9" />
+<img   alt="image image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ @CityOfLosAngeles @StateOfCAlifornia @ForAtlanta" src="https://github.com/user-attachments/assets/f4b56997-0986-44a2-a9af-562c4428f1d5" />
+
+<img   alt="image @foratlanta is muna death a lie ? @CityOfLosAngeles @la-county-isd is lana j harris that girl in my pic with blackface on ? @Caltech @cnn " src="https://github.com/user-attachments/assets/74199876-6815-40ae-9bc3-721693adc0cc" />
+
+## Air Combat 
+`NAmco System 22` 
+@boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc [en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards](https://en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards) // [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22) // [acecombat.wiki.gg/wiki/Air_Combat_22 @nasa-jpl hi @blackgirlscode](https://acecombat.wiki.gg/wiki/Air_Combat_22)
+
+<iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+  {{ page.date | date: "%m/%d/%Y : %r" }} @howard-university-web-services @deptofwar
+  
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
  
 --- 
 
