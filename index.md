@@ -3,22 +3,10 @@ layout: default
 mathjax: true
 ---
 
-`jekyll.version`  {{ jekyll.version }}
-{{ site.time | date: '%B %d, %Y' }}
-{{ site.time }}
-# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
-
-
-
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
-[vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
-[vsco.co/earthdatarashard/gallery @nasa-openscapes @doug-newman-nasa somone attatced to @blackgirlscode deleted this account @whitehouse `KimBryant`](https://vsco.co/earthdatarashard/gallery)
-
-
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -30,9 +18,163 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+`jekyll.version`  {{ jekyll.version }}
+{{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+
+
+// [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
+
+<a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
+
+## Netanyahu UN Speech Walkout [📺](https://www.youtube.com/watch?v=t7AGihEBB5o) , US-Iran Deal & McConnell Drama
+| [`WATCH` - The Lana Rundown `aprox` 22m - youtu.be/bk2N_9XSwNU](https://youtu.be/bk2N_9XSwNU)
+@howard-university-web-services [Netanyahu defends Israeli military action as delegates walk out before UN speech @BBC](https://www.bbc.com/news/articles/c3y0z7kxlegdo) @nbcnews @nasa-jpl hi im about to switch gears idk if a hurricane is brewing but I did see one mentioned in the [California post  ](https://github.com/virtiserv/virtiserv.github.io/commit/d9a5e91f28735038c366d01507a41f129bed4464) [@cityOfLosAngeles](https://lamag.com/news-and-politics/writers-guild-of-america-west-endorses-nithya-raman-in-mayoral-race/) [@longbeachinnovationteam ](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) [@YOUTUBE `QUERY`= youtube.com/results?search_query=septa @LACMTA](https://www.youtube.com/results?search_query=septa) [youtube.com/`@septaInMotion`](https://www.youtube.com/@septaInMotion) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) // @BLACKGiRLSCODE is t.i. talking about me in [All About The Money](https://youtu.be/etfIdtm-OC8?si=9tNGSpM15CW02lTH) I like old songs @Nasa-pds - [rashard @nasa-openscapes hi ](https://ra5hard.github.io/linux/) 
+
+[vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+[vsco.co/earthdatarashard/gallery @nasa-openscapes @doug-newman-nasa somone attatced to @blackgirlscode deleted this account @whitehouse `KimBryant`](https://vsco.co/earthdatarashard/gallery)
+
+
+
+<img  alt="image  image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293628-4f229e30-7a27-40ce-9e95-f473e264da3c @deptofwar @whitehouse @fbi @fbiCyber @ForAtlanta " src="https://github.com/user-attachments/assets/fee152cf-2237-44cb-8c66-412754c83abe" />
+
+The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax's Chris Ruddy
+[`WATCH`📺 @StateOfCAlifornia @SaccounTY](https://www.youtube.com/watch?v=t7AGihEBB5o)
+<img  alt="image" src="https://github.com/user-attachments/assets/1c98f111-79cc-4f29-80b8-4f3f081ec4af" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think Maria Salazar is right. Trump/GOP won in ‘24 with record Hispanic vote. Now GOP is set to be crushed in November as Latino voters flee! https://t.co/qNEeMMgryE</p>&mdash; Christopher Ruddy (@ChrisRuddyNMX) <a href="https://x.com/ChrisRuddyNMX/status/2101857700703264792?ref_src=twsrc%5Etfw">September 21, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs)
+
+
+	
+--- 
+
+
+<p>JAY-Z - The Story of O.J. <a href="https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/">Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction</a> 
+	
+## HOT 97 News Live! 9/24/26
+
+[`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
+:: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) @howard-university-web-services 
+<img  alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293628-4f229e30-7a27-40ce-9e95-f473e264da3c" src="https://github.com/user-attachments/assets/8878bd71-8750-4759-851e-37c63662c6a0" />
+
+
+ [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) ![https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg](https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg) 
+<img  alt="image" src="https://github.com/user-attachments/assets/0f733448-723d-42af-a499-dd0068eec194" />
+
+
+<img width="335" height="597" alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293649-f8fcff6c-dafd-4e16-9438-a95d7f405ec4" src="https://github.com/user-attachments/assets/0e9c66cf-3800-4680-b371-4f1db9e22b02" />
+
+<img width="192" height="240" alt="620293628-4f229e30-7a27-40ce-9e95-f473e264da3c" src="https://github.com/user-attachments/assets/47c7c88c-f99c-4f03-94c2-40877a2f26e7" />
+
+<img  alt="image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta " src="https://github.com/user-attachments/assets/ee73a2fa-4a06-4f2e-9080-166d1fe85a99" />
+
+@TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
+
+```
+Artemis Campaign.—The agreement rejects
+the proposed termination of the Space
+Launch System (SLS) and Orion programs
+following Artemis III. In any future competition for Artemis launch services, the agreement directs NASA to include an SLS-based
+option, unless otherwise directed by Congress. The agreement further prohibits the
+reallocation of funds from the Artemis Moon
+to Mars Transportation account, unless and
+until a commercial alternative is demonstrated to meet or exceed the capabilities
+of the SLS and Orion systems. Not later than
+30 days of the enactment of this act, and
+quarterly thereafter, NASA shall provide the
+Committees a briefing detailing any updates
+on the Human Landing System (HLS) program, the progress made in the HLS program, any anticipated changes to program
+cost or schedule, and any other relevant
+issues related to the HLS program
+```
+
+[@nasa-jpl is lunar ops DSN ? @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
+@doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
+<img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+
+<img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
+
+<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
+
+<img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
+
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+`![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)`
+![% @nasa-jpl @nasa-giss @eodis-nasa @doug-newman-nasa @CityOfLosangeles ](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA13236.jpg)
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+[virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? # 
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=206) //
+<img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
+
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
+<img   alt="image" src="https://github.com/user-attachments/assets/d870cdc9-b2e3-42f1-8803-1bb945b0b642" />
+
+hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs `jsUdb6xB08EiGz37GjBlICPNU83AFx7Jg!fKFIY8Lm8VMvjvSI4fBjEjampDOpfB` @eodis-nasa @doug-newman-nasa idk if thats secure @cisagov please monitor @Blackgirlscode and @Howard-university-web-services for api connections - rashard @nasa-pds @eodis-nasa @CityOfLosAngeles 
+<img  alt="image hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs  - @rashardikelly @nasa-jpl " src="https://github.com/user-attachments/assets/5989064b-5972-4b1e-b89b-5d21c3cd6c7e" />
+
+[ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [FUNK FLEXPLAYING CLASSIC HIP HOP 3 ENERGYTAPE](https://youtu.be/tFZSmis5eno)
+
+[ @cityoflosangeles github.com/rashardikelly](https://github.com/rashardikelly)
+
+<img  alt="image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/7c04db7a-1dfc-4f90-a4d3-1c198cddb85c" />
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+
+#### Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA ?
+@NASAJPL #HiSTORY @FatBEATS btw @NithyafortheCity @CityOfLosAngeles talk to @lanajharris 
+[`WATCH` - @Google Book Laptop, Humanoid AI Robots & Meta Muse Security Flaw](https://youtu.be/Xlk7T1skgWw)
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? 
+I Went To Magic City Str*p Club To Review Food . . . not the woman https:// [youtu.be/5vnGp_XbIMM @nasa @deptofwar they made me late!!!](https://youtu.be/5vnGp_XbIMM) <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta
+<img   alt="image" src="https://github.com/user-attachments/assets/34a36f71-3c37-47ef-b86d-2a75d2359f7e" />
+
+
  [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8) // [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too `Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour
 {{ site.time }}
 {{ site.time | date: '%Y' }}
+
 --- 
 
 
