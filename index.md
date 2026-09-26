@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[Big Pun - It's So Hard](https://youtu.be/eMIzWh1yhCA?list=RDDB_QSvLWFE4)
+
+// 
 
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NRB_843403642EDR_F1250558NCAM00353M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NRB_843403642EDR_F1250558NCAM00353M_.JPG)
