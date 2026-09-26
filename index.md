@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NRB_843403642EDR_F1250558NCAM00353M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NRB_843403642EDR_F1250558NCAM00353M_.JPG)
+
+
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
